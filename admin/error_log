@@ -1,0 +1,10 @@
+[04-Jan-2023 04:24:46 America/Costa_Rica] PHP Warning:  Undefined array key "purchase_key" in /home3/raylafcy/freelancer.raylancer.co/admin/header.php on line 346
+[04-Jan-2023 04:25:15 America/Costa_Rica] PHP Warning:  Undefined array key "purchase_key" in /home3/raylafcy/freelancer.raylancer.co/admin/header.php on line 346
+[04-Jan-2023 05:36:12 America/Costa_Rica] PHP Deprecated:  setcookie(): Passing null to parameter #2 ($value) of type string is deprecated in /home3/raylafcy/freelancer.raylancer.co/admin/logout.php on line 35
+[05-Jan-2023 00:27:36 America/Costa_Rica] PHP Deprecated:  setcookie(): Passing null to parameter #2 ($value) of type string is deprecated in /home3/raylafcy/freelancer.raylancer.co/admin/logout.php on line 35
+[05-Jan-2023 01:12:17 America/Costa_Rica] PHP Deprecated:  setcookie(): Passing null to parameter #2 ($value) of type string is deprecated in /home3/raylafcy/freelancer.raylancer.co/admin/logout.php on line 35
+[05-Jan-2023 01:14:24 America/Costa_Rica] PHP Warning:  unlink(/home3/raylafcy/freelancer.raylancer.co/storage/profile/): Is a directory in /home3/raylafcy/freelancer.raylancer.co/admin/ajax_sidepanel.php on line 335
+[05-Jan-2023 01:50:13 America/Costa_Rica] PHP Deprecated:  setcookie(): Passing null to parameter #2 ($value) of type string is deprecated in /home3/raylafcy/freelancer.raylancer.co/admin/logout.php on line 35
+[05-Jan-2023 02:06:36 America/Costa_Rica] PHP Deprecated:  setcookie(): Passing null to parameter #2 ($value) of type string is deprecated in /home3/raylafcy/freelancer.raylancer.co/admin/logout.php on line 35
+[05-Jan-2023 02:23:58 America/Costa_Rica] PHP Deprecated:  setcookie(): Passing null to parameter #2 ($value) of type string is deprecated in /home3/raylafcy/freelancer.raylancer.co/admin/logout.php on line 35
+[05-Jan-2023 03:21:08 America/Costa_Rica] PHP Deprecated:  setcookie(): Passing null to parameter #2 ($value) of type string is deprecated in /home3/raylafcy/freelancer.raylancer.co/admin/logout.php on line 35
